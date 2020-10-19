@@ -3,7 +3,7 @@
 /* Color and Fonts*/
 body{
 
-background-color: #ffe2e2;
+background-color: #f4d9c6;
 color: black;
 font-family: 'Lato', sans-serif;
 font-size:16px;
@@ -12,7 +12,7 @@ text-align: center;
 }
 
 h1{
-	color:#cc0e74;
+	color: #e5c5b5;
     font-family: 'Dancing Script', cursive;
 	font-size:32px;
 	font-weight: bold;
@@ -20,7 +20,7 @@ h1{
 }
 
 h2{
-	color:#cc0e74;
+	color:#e5c5b5;
 	font-family: 'Lato', sans-serif;
 	font-size:24px;
 	font-weight: 700;
@@ -39,7 +39,7 @@ a{
 }
 
 a:hover {
-color: #cc0e74
+color:#e5c5b5
 
 }
 
@@ -89,7 +89,7 @@ margin:40px auto;
 }
 
 .btn-pink{
-background-color:#ffe2e2;
+background-color:#f4d9c6;
 color: black;
 padding: 15px 20px;
 border-radius:4px;
@@ -97,7 +97,7 @@ border-radius:4px;
 }
 
 .btn-pink:hover{
-	background-color: #cc0e74;
+	background-color: #e5c5b5;
 	color: white;
 }
 
@@ -114,13 +114,13 @@ border-radius:4px;
 
 .list-inline i{
 	font-size: 50px;
-	color: #ffe2e2;
+	color: #f4d9c6;
 	text-align: center;
 }
 
 
 .list-inline i:hover{
-	color: #cc0e74
+	color: #e5c5b5
 }
 
 /* design adjustments using id*/

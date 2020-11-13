@@ -81,23 +81,23 @@ margin:40px auto;
 	border-radius: 50%
 	border: 2px solid rgb(50,50,50);
 }
-.img-rectangle img{​​​​​
+.img-rectangle img{
 width: 150px;
 height: 200px;
 margin: 4px;
-}​​​​​
+}
 
 .btn-pink{
 background-color:#f4d9c6;
-color: black;
-padding: 15px 20px;
+color:black;
+padding:15px 20px;
 border-radius:4px;
-font-size: 50px;
+font-size:20px;
 }
 
 .btn-pink:hover{
-	background-color: #e5c5b5;
-	color: white;
+background-color: #e5c5b5;
+color:black;
 }
 
 .socialnetwork{

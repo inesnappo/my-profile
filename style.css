@@ -1,5 +1,3 @@
-
-
 /* Color and Fonts*/
 body{
 	background-color: #f4d9c6;
@@ -40,15 +38,12 @@ color:#e5c5b5
 }
 
 /* Customize with class*/
-
 .container{
 width: 700px
 margin:40px auto;
 }
 
-
 /* For a screen < 960px, this CSS will be read */
-
 @media (max-width: 960px) {
   .container {
     width: 700px;
@@ -138,13 +133,11 @@ color:black;
 	text-align: center;
 }
 
-
 .arrow i:hover{
 	color: #e5c5b5
 }
 
 /* design adjustments using id*/
-
 #introduction p{
 	margin-bottom: 40px; 
 }
